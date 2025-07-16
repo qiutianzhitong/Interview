@@ -1,0 +1,7 @@
+小伙子，去完成最后的任务吧![w]
+[remove,teacher,spFadeOut_1000]
+[SetFirstClick]
+[hide]
+[Remove]
+[release]
+[load,04-Boss]

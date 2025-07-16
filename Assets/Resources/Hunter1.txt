@@ -1,0 +1,8 @@
+[lock]
+[show]
+[image,teacher,Role/猎人,800,-300,0,spFadeIn_1000]
+小伙子,我来给你恢复，去完成任务吧![w]
+[remove,teacher,spFadeOut_1000]
+[SetFirstClick]
+[hide]
+[release]

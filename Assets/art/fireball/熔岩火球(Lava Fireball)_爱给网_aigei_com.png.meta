@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 96740caef07a5bd4f8251643a79766eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b59930b6d5b149aea58b1ef5e3e11
+      internalID: -1122840402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb60e3582965ba44acaeccefb693ece
+      internalID: 1792652857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d592c06718e94d8b424b8109785ac
+      internalID: -1718322622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618d9b53ed3c0d4a94323763ce0dd02
+      internalID: -1700923251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b407e86ff5d74e9c4604fc9cca6a9
+      internalID: 1145117917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf885e739f94c742b4e68e651b93c3c
+      internalID: 317604451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c602becaeed744799f57fc0da745db
+      internalID: 906695866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8812e5e63270854ba10bb4a914138e8
+      internalID: -1001284244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2306c30909eb2f442a9e84be2eda769d
+      internalID: 953311186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f34b99b290e6f543abb2551871314cc
+      internalID: 790385707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c29112e5c3fbf42a1095e903d1a639
+      internalID: -863506939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d3cca1cacab646a914714a2ec679f
+      internalID: -183146226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f7a52e64bee7745943093ecf8d5e7f
+      internalID: -1142131315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b18ffe86ec71a4c92282b6ebe0a19d
+      internalID: 1735259493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b01a653c383548901693c48e66ba0
+      internalID: 1468560333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3382fa707de442bf66604494abb11
+      internalID: -494625902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea06d01c9aff514ca440ae9256dc939
+      internalID: -645504873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd482e178913ddd4ba7b729be9af0535
+      internalID: -569939376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362927b07d3c92940a108d8c391508ce
+      internalID: -416417693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f9d54d0d126e44a842037c680f605e
+      internalID: 1279847705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800af93d401b64478ec92351aba3ac0
+      internalID: -1410711659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977f41517cdb14d409d6acf81fbf2883
+      internalID: 1200740499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f88e85418db6b04d8c0d934c7b735ab
+      internalID: 585607755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dbcb9862b72eb458827c4728eada09
+      internalID: -68008230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b6f451231dbd4ab74cd4df344d62c
+      internalID: -816523878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 69
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ff4d54c8d64784aa51e5608afdc20e
+      internalID: -900707101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 69
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555177f7dfd7524ab89bbe687394363
+      internalID: -372727535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 69
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d1704c454dc0a44bd075f100d8dfb3
+      internalID: 159758569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff44d3b1add0df4889003bc8b2658bb
+      internalID: 1989435083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e86b30475fef224697f85ca70debede
+      internalID: 1929049744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625310ace9d5f10469ceddffcb5fb0e7
+      internalID: -259170222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71807222058b17409d5e771f1b03276
+      internalID: -586776228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 41
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef549cbd4a83c674f87ad1912f7dab0e
+      internalID: 1402233507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 41
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac1cfe26917c043af866fea21250d1
+      internalID: -960460265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 41
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fde1adf6f8fc7438a02869a2c48cb8
+      internalID: -651515360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 41
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63e8d1626194346a3956d4053d17ce
+      internalID: -922583337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 25
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eafafeda5541c4398ff0c6e1bbcad3
+      internalID: -242605212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 25
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92414a5b1dfe0f42b56bf5238f122fc
+      internalID: -716320883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 25
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e608e7ea52414fac53b057b0eba39
+      internalID: -29760996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 25
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3633290afc806c740aac0a9aee94fcdc
+      internalID: 1791720582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a38b277a579640bb9bac081b2674b
+      internalID: 2046872539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5988afdc61f834a8fad253158bec26
+      internalID: -1301594430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049611d2f2d96e48b599be581e7308f
+      internalID: 453256058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f50dd74547ee34a86fc625dac50b28
+      internalID: -671068391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c999c233e259347901331442301aad
+      internalID: 585516320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a76dbf4dd33d0244bf38715581580c6
+      internalID: 1057804744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf07c4ba788523247a77ca634d7578e9
+      internalID: 1195906844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f472bf41c55d9b4b8645412c162b0c7
+      internalID: -719843542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8b9368547d45b4caf360f3542efe18
+      internalID: -1205024544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a92a206363bd614fb0cfe6424d443a1
+      internalID: -289725705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f60f127dfc1174cad4023fd89d0d36
+      internalID: 1599992491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 11
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f71faec8d0d71498d8c967c959f48a
+      internalID: -1478963993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87694dc560a1b974aa6429d08701100d
+      internalID: 41724484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5db9baffa7d47a47bb8afc05f41cfda
+      internalID: -1416617910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31a90b522599114e8ce06de7c1492de
+      internalID: 1415318453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_55"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024bc18fa9ce6a74db0af9a3f8469016
+      internalID: 822207500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_56"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d4ff40b8b3b5640959a92b581ec68e
+      internalID: 1322856898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_57"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d14dbc831382a74ba8c75aa09eaf8f6
+      internalID: -289988250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_58"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396547686f8134428f7e443c759d430
+      internalID: -1607675259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_59"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e77e149635fe545bacfb3448d2d6c5
+      internalID: -1739626142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_60"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a8ac3a6e4d7b4e9ebc2c44c3d6e62
+      internalID: 953135302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_0": -1122840402
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_1": 1792652857
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_10": -863506939
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_11": -183146226
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_12": -1142131315
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_13": 1735259493
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_14": 1468560333
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_15": -494625902
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_16": -645504873
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_17": -569939376
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_18": -416417693
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_19": 1279847705
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_2": -1718322622
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_20": -1410711659
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_21": 1200740499
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_22": 585607755
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_23": -68008230
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_24": -816523878
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_25": -900707101
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_26": -372727535
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_27": 159758569
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_28": 1989435083
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_29": 1929049744
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_3": -1700923251
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_30": -259170222
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_31": -586776228
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_32": 1402233507
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_33": -960460265
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_34": -651515360
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_35": -922583337
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_36": -242605212
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_37": -716320883
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_38": -29760996
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_39": 1791720582
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_4": 1145117917
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_40": 2046872539
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_41": -1301594430
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_42": 453256058
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_43": -671068391
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_44": 585516320
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_45": 1057804744
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_46": 1195906844
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_47": -719843542
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_48": -1205024544
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_49": -289725705
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_5": 317604451
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_50": 1599992491
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_51": -1478963993
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_52": 41724484
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_53": -1416617910
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_54": 1415318453
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_55": 822207500
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_56": 1322856898
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_57": -289988250
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_58": -1607675259
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_59": -1739626142
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_6": 906695866
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_60": 953135302
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_7": -1001284244
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_8": 953311186
+      "\u7194\u5CA9\u706B\u7403(Lava Fireball)_\u7231\u7ED9\u7F51_aigei_com_9": 790385707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5 @@
+[lock]
+[show]
+[image,teacher,Role/猎人,800,-300,0,spFadeIn_1000]
+小伙子，我看你天赋异禀，要不要来学习射箭![w]
+[hunterchoose]

@@ -1,0 +1,4 @@
+那太可惜了[w]
+[remove,teacher,spFadeOut_1000]
+[hide]
+[release]
